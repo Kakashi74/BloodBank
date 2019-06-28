@@ -1,0 +1,60 @@
+<resources>
+    <string name="app_name">BloodBank</string>
+    <string name="Skipp">تخطي</string>
+    <string name="Enter">الدخول</string>
+    <string name="Create_New_One">انشاء حساب جديد</string>
+    <string name="Forget_Pasword">هل نسيت كلمة المرور </string>
+    <string name="remember_me">تـذكرني</string>
+    <string name="Phone">رقم الهاتف</string>
+    <string name="Password">كلمة المرور</string>
+    <string name="Verify_code">كود التحقق</string>
+    <string name="New_Password">كلمة مرور جديده</string>
+    <string name="REpeatPassword">تكرار كلمة المرور</string>
+    <string name="ChangePassword">تغير كلمو المرور</string>
+    <string name="Name">الاسم</string>
+    <string name="Birthdate">تاريخ الميلاد</string>
+    <string name="BloodType">فصيلة الدم</string>
+    <string name="Email">البريد الالكتروني</string>
+    <string name="Last_Donate">اخر تاريخ للتبرع</string>
+    <string name="Governrate">المحافظة</string>
+    <string name="City">المدينة</string>
+    <string name="Register">التسجيـل</string>
+    <string name="Send">ارسـال</string>
+    <string name="articles">المقالات</string>
+    <string name="Donation_Requests">طلبات التبرع</string>
+    <string name="Ways_to_heel_from_disees">طرق الوقاية من الامراض</string>
+
+
+
+
+    <string-array name="Egypt_Governrate">
+        <item>المحافظة</item>
+        <item>الإسكندرية</item>
+        <item>القاهرة</item>
+        <item>الشرقية</item>
+        <item>الدقهلية</item>
+        <item>الغربية</item>
+        <item>الاسماعيلية</item>
+        <item>بورسعيد</item>
+        <item>سوهاج</item>
+        <item>الاقصر</item>
+        <item>اسيوط</item>
+        <item>البحر الاحمر</item>
+        <item>البحيرة</item>
+        <item>بني سويف</item>
+        <item>الجيزة</item>
+
+    </string-array>
+
+    <string-array name="city_name">
+        <item>المدينة</item>
+        <item>الزقازيق</item>
+        <item>ههيا</item>
+        <item>المنصوره</item>
+        <item>بو كبير</item>
+        <item>العبور</item>
+        <item>العاشر من رمضان</item>
+    </string-array>
+
+
+</resources>
